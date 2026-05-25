@@ -1,0 +1,6 @@
+{
+	"extensionType" : ".data",
+	"threads" : 5,
+	"batchSize" : 50
+	
+}
