@@ -1,3 +1,12 @@
+
+/*
+ *  if i add the new loanManager CorporateAndPersonalLoanManager . so without the factory
+ *  i have to write so many code. but using factory it goes easy.
+ */
+
+
+
+
 package com.nag.fp2.pattern;
 
 import com.nag.fp2.beans.CorporateAndPersonalLoanManager;
